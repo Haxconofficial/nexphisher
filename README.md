@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in AFRICA" src="https://img.shields.io/badge/MADE%20IN-AFRICA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
+<a href="#"><img title="Alvin phishing tool" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-DARKANDROIDHACKERS-red.svg?style=for-the-badge&logo=github"></a>
@@ -21,15 +21,15 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
-* `cd nexphisher`
+* `git clone https://github.com/thunder7333/darkandroidhackers
+* `cd darkandroidhackers`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+#### > Run : `bash darkandroidhackers`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone https://github.com/thunder7333/darkandroidhackers ; cd darkandroidhackers ; bash setup ; bash darkandroidhackers
 ```
 <br>
 <p align="center">
@@ -44,7 +44,7 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > Zphisher (https://github.com/haxconofficial)
+#### > Alvin waho (https://github.com/haxconofficial)
 #### > The Linux Choice (https://github.com/thelinuxchoice)
 #### > DarkSecDevelopers (https://github.com/DarkSecDevelopers)
 #### > Undeadsec (https://github.com/Undeadsec)
